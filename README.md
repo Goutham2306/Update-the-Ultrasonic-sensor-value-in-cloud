@@ -1,4 +1,6 @@
-# Update-the-Ultrasonic-sensor-value-in-Things Mate
+# EXPNO:8 Update the Ultrasonic sensor value in Things Mate
+### Name: KANDUKURI GOUTHAM
+### Reg No: 212223110019
 
 # AIM:
 To upload the Ultrasonic sensor value in the Things mate using Arduino controller.
